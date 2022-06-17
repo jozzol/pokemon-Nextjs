@@ -1,3 +1,13 @@
+# Summary
+
+this project is meant to replicate a pokedex connecting to the pokemon API, it uses nextjs and tailwind to present the pokemon data, and includes paginnation.
+
+
+
+
+
+
+
 # NextJS with Tailwind CSS Boilerplate
 
 
